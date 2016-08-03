@@ -1,0 +1,25 @@
+.mainText{
+  font-size: 18px;
+
+}
+
+.mainText #aboutMe img{
+  width: 160px;
+  height: auto;
+}
+
+.mainText #aboutMe{
+  font-family: fantasy;
+}
+
+.mainText img{
+  width: 160px;
+  height: auto;
+}
+
+h1{
+  background-color: red;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
